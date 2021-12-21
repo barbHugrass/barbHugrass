@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barbHugrass
 - 👀 I’m interested in IT  farming science and painting with acrylics 
 - 🌱 I’m currently learning python sql fastapi
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on the SummerLiveTech team project 
 - 📫 How to reach me email hugrassbarbara@gmail.com phone 0498383419
 
 <!---
